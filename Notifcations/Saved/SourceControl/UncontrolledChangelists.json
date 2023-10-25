@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/coolf/Documents/Unreal Projects/FA23-Notification-Dismissal-Eliciting-Gestures-for-Notification-Dismissal-in-Mixed-Reality/Notifcations/Content/ARStuff/ArPawn.uasset",
+				"C:/Users/coolf/Documents/Unreal Projects/FA23-Notification-Dismissal-Eliciting-Gestures-for-Notification-Dismissal-in-Mixed-Reality/Notifcations/Content/VRTemplate/Maps/ARMap.umap",
 				"C:/Users/coolf/Documents/Unreal Projects/Notifcations/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
